@@ -4,7 +4,7 @@
 # KELAS : TI 22 A3
 # PACKAGE & MODULE
 ## **Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
-![Gambar 1](uas/tugas.png)
+![image](https://user-images.githubusercontent.com/115516505/211362180-74bc07fb-9b8c-4787-a813-780e488ebf90.png)
 ## ***``daftar_nilai.py`` berisi modul untuk :***
 ## ***tambah_data***
 ```python
@@ -255,7 +255,7 @@ for l in i:
 P(" ╚══════════════════╩══════════════════╩═══════╩═══════╩═══════╩═══════╝")
 ```
 ## ***Output cetak_hasil_pencarian***
-![Gambar 8](uas/cari.png)
+![output mencari](https://user-images.githubusercontent.com/115516505/211363033-9e4c376c-5af6-4b59-bc7f-49675ef99526.jpeg)
 ## ***``input_nilai.py`` berisi modul untuk :***
 ### ***input_data yang meminta pengguna memasukan data***
 ```python
@@ -264,7 +264,7 @@ Nama : Albed|Nim : 312210290|Tugas : 90|UTS : 85|UAS : 80|Akhir : 84.75
 Nama : Andi|Nim : 312210316|Tugas : 90|UTS : 85|UAS : 80|Akhir : 84.75
 ```
 ## ***Output input_nilai.py***
-![Gambar 9](uas/data.png)
+![Output lihat data](https://user-images.githubusercontent.com/115516505/211362748-2c4f8a52-58dd-4363-af7e-313dd2ffebd6.png)
 ## ***``main.py`` berisi program uatama menu pilihan yang memanggil semua yang ada.***
 ```python
 import os,sys
@@ -456,4 +456,4 @@ while True:
         P("Pilih menu yang tersedia")
 ```
 ## ***Output main.py***
-![Gambar 10](uas/menu.png)
+![image](https://user-images.githubusercontent.com/115516505/211362266-fa838215-b73b-40af-a1f2-6c6c0acc3827.png)
