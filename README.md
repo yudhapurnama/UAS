@@ -206,7 +206,7 @@ for l in i:
 P(" ╚══════════════════╩══════════════════╩═══════╩═══════╩═══════╩═══════╝")
 ```
 ## ***Output cari_data***
-![Gambar 6](uas/cari.png)
+![output mencari](https://user-images.githubusercontent.com/115516505/211363667-2729af68-d721-4da4-8d4e-666c26678759.jpeg)
 ## ***``view_nilai.py`` berisi modul untuk :***
 ## ***Penjelasan Def cari***
 ## Fungsinya sama dengan Def tambahkan
